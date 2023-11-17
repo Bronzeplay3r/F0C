@@ -8,7 +8,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #0000FF;
+  background-color: #228B22;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -47,7 +47,7 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #5E60CE;
+  background-color: #5390D9;
   padding: 10px;
   text-align: center;
   color: white;
